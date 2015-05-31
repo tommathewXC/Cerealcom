@@ -1,6 +1,9 @@
 # Cerealcom
 Excel based oscilloscope using Arduino and VB.NET
 
+Demonstration at: https://www.youtube.com/watch?v=hTaZTMWb7BE
+
+
 The "CerealCom" (as in Serial Communication system) interfaces an arduino board with Microsoft Excel. 
 The purpose of this project was to make a basic digital oscilloscope using cheap hardware and microsoft excel.
 There are three stages to
